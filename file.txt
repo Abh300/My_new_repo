@@ -1,0 +1,3 @@
+My file inside new github repo
+
+I added a new line today 
